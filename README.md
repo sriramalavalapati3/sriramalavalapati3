@@ -14,6 +14,8 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://codepen.io/sriramalavalapati3" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="sriramalavalapati3" height="30" width="40" /></a>
+  <a href="https://www.linkedin.com/in/sriram-alavalapati-a78489245/" target="blank"><img align="center" src="https://www.linkedin.com/feed/?nis=true&lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3BCPh1xIrmSC%2BiPU433doRoQ%3D%3D" alt="sriramalavalapati3" height="30" width="40" /></a>
+  
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
