@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm sriram alavalapati</h1>
 <h3 align="center">A passionate Node Backend developer from India</h3>
-<img src="./Add a heading.gif">
+<img src="./Add a heading.gif" width="100%">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sriramalavalapati3&label=Profile%20views&color=0e75b6&style=flat" alt="sriramalavalapati3" /> </p>
 
