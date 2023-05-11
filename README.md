@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm sriram alavalapati</h1>
 <h3 align="center">A passionate Node Backend developer from India</h3>
 <div align="center">
-  <img src="./headergif.gif" width="75%"  height="500px">
+  <img src="./headergif.gif" width="75%"  height="auto">
 </div>
 
 
