@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm sriram alavalapati</h1>
 <h3 align="center">A passionate Node Backend developer from India</h3>
-<div align="center">
-  <img src=".introgif.gif" width="100%"  height="auto">
-</div>
+
+  <img align="center" src=".introgif.gif" width="100%"  height="auto">
+
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sriramalavalapati3&label=Profile%20views&color=0e75b6&style=flat" alt="sriramalavalapati3" /> </p>
