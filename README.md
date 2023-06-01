@@ -2,7 +2,7 @@
 <h3 align="center">A passionate Node Backend developer from India</h3>
 
 <div width="250px">
-  <img src="https://drive.google.com/uc?export=download&id=1I_8qncjsBEEdzjrrIWyAxOB08gxNpATY" alt="GIF" width="auto" align="center" max-height="auto">
+   <img src="https://drive.google.com/uc?export=download&id=1nkyuvMH2WpgxJPXCA8WcNuR4gbv94CYE" alt="GIF">
 </div>
 
 
