@@ -15,7 +15,7 @@
 
 - 👨‍💻 All of my projects are available at [https://sriram-portfolio-sepia.vercel.app/](https://sriram-portfolio-sepia.vercel.app/)
 
-- 💬 Ask me about **Node.js,express,mongodb**
+- 💬 Ask me about **Node.js,express,mongodb,Postgress,typeorm,react.js,redux.js,socket.io,unit-tests(frontend-backend)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
