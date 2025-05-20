@@ -13,7 +13,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sriramalavalapati3" alt="sriramalavalapati3" /></a> </p>
 
-- 👨‍💻 All of my projects are available at [https://sriram-portfolio-zeta.vercel.app/](portfolio)
+- 👨‍💻 All of my projects are available at [portfolio](https://sriram-portfolio-zeta.vercel.app/)
 
 - 💬 Ask me about **Node.js,express,mongodb,Postgress,typeorm,react.js,redux.js,socket.io,unit-tests(frontend-backend)**
 
